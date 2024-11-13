@@ -1,2 +1,5 @@
 django
 openpyxl
+mssql-django
+pandas
+xlwt
